@@ -1,0 +1,732 @@
+<html><head>
+<meta charset="utf-8">
+<title>Peugeot - 307 - Samochody osobowe - wyniki wyszukiwania - otoMoto</title>
+<meta content="Peugeot - 307 - Kup i sprzedaj samochód lub motocykl w najlepszym serwisie internetowych ogloszen motoryzacyjnych!" name="description">
+<meta content="ogloszenia motoryzacyjne, samochody, komis, auto, ogloszenia, fiat, bmw, mercedes, opel, ford, tuning, amerykanskie, motocykle, motory, skutery, peugeot, renault, honda, kawasaki, terenowe, uzywane samochody, yamaha, audi, suzuki, vw, zabytkowe, allegro, otomoto" name="keywords">
+<meta content="I1dYdh8TYXz97RZRBJYGupC9fl6cQgECh50a3maJ9-4" name="google-site-verification">
+<link href="/site_images/1/0/css/omCore.css?v=24" media="screen" rel="stylesheet">
+<link href="/site_images/1/0/css/omPage.css?v=27" media="screen" rel="stylesheet">
+<script src="http://gg.adocean.pl/files/js/ado.js" type="text/javascript"></script>
+<script type="text/javascript">&lt;!--//&lt;![CDATA[
+/* (c)AdOcean 2003-2009 */
+  if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};} 
+  ado.config({mode: "new", xml: false, characterEncoding: true});
+  ado.preview({enabled: true, emiter: "gg.adocean.pl", id: "JOcK7gzdoyrcIT2176iLzhCz8UoPOGcT6Y1ax8FNTPf.l7"});
+// ]]&gt; --&gt;
+</script><!-- start master -->
+<script type="text/javascript">&lt;!--//&lt;![CDATA[
+/* (c)AdOcean 2003-2009, MASTER: GaduGadu.Otomoto.pl.Wyniki_wyszukiwania */
+var otomotoParams = '&amp;sub=1&amp;make=11&amp;model=634480';
+ado.master({id: 'zSHlw_NELTnBl8q96hhNkijMobMAKUcaKI7aLTXi7TP.07', server: 'gg.adocean.pl', vars: otomotoParams });
+// ]]&gt; --&gt;
+</script>
+<!--  end master  -->
+
+<link href="/site_images/1/0/favicon.ico" rel="shortcut icon">
+</head>
+<body id="top"><a href="http://otomoto.pl/samochody-osobowe" id="omBetaNew"></a>
+<div style="margin: auto; text-align: center; padding-top:10px; display:none;" id="bigBannerTarget">
+<!-- start slave -->
+<div id="adoceanggqnhtgnknmo"></div>
+<script type="text/javascript">&lt;!--//&lt;![CDATA[
+/* (c)AdOcean 2003-2009, GaduGadu.Otomoto.pl.Wyniki_wyszukiwania.750x100_billboard */
+ado.slave('adoceanggqnhtgnknmo',
+  {
+    myMaster: 'zSHlw_NELTnBl8q96hhNkijMobMAKUcaKI7aLTXi7TP.07',
+    onServerEmission:function() {
+      var el = document.getElementById(this.id);
+      if (el) {
+        el.parentNode.style.display='block';
+      }
+    }
+  });
+// ]]&gt; --&gt;
+</script>
+<!--  end slave  -->
+
+<script type="text/javascript">&lt;!--//&lt;![CDATA[
+if (typeof adserver_emissions == 'object' &amp;&amp; adserver_emissions['750x100_billboard'] == true) {
+  if(document.getElementById('bigBannerTarget')) { document.getElementById('bigBannerTarget').style.display = 'block'; }
+  
+}
+// ]]&gt; --&gt;
+</script></div>
+<div id="containerOM">
+
+<div class="cf" id="headerOM">
+<h2><a title="otoMoto.pl - ogloszenia motoryzacyjne" href="/">otoMoto.pl - ogloszenia motoryzacyjne</a></h2>
+
+<h2 id="headerCounter">414262 ogloszen motoryzacyjnych</h2>
+<div id="primNavOM">
+<ol>
+<li class="current" id="search"><a href="/index.php?sect=search">Szukaj</a>
+<ul class="currentSub" id="subSearch">
+<li class="activeSub"><a href="/index.php?sect=search&amp;sub=car">Osobowe</a></li>
+<li><a href="/index.php?sect=search&amp;sub=truck">Dostawcze i ciezarowe</a></li>
+<li><a href="/index.php?sect=search&amp;sub=motorbike">Motocykle/ATV</a></li>
+<li><a href="/index.php?sect=search&amp;sub=construction">Maszyny budowlane</a></li>
+<li><a href="/index.php?sect=search&amp;sub=agro">Maszyny rolnicze</a></li>
+<li><a href="/index.php?sect=search&amp;sub=other">Pozostale</a></li>
+<li><a href="/index.php?sect=search&amp;sub=part">Czesci</a></li>
+<li><a href="/index.php?sect=search&amp;sub=dealer">Dealerzy</a></li>
+<li class="lastSubMenu"><a href="/search/service">Uslugi</a></li>
+</ul>
+</li>
+<li id="sell"><a href="/index.php?sect=sell">Sprzedaj</a>
+<ul id="subSell">
+<li class="activeSub"><a href="/index.php?sect=sell&amp;sub=car">Osobowy</a></li>
+<li><a href="/index.php?sect=sell&amp;sub=truck">Dostawczy lub ciezarowy</a></li>
+<li><a href="/index.php?sect=sell&amp;sub=motorbike">Motocykl/ATV</a></li>
+<li><a href="/index.php?sect=sell&amp;sub=construction">Maszyna budowlana</a></li>
+<li><a href="/index.php?sect=sell&amp;sub=agro">Maszyna rolnicza</a></li>
+<li><a href="/index.php?sect=sell&amp;sub=part">Czesc</a></li>
+<li><a href="/index.php?sect=sell&amp;sub=other">Pozostale</a></li>
+<li class="lastSubMenu"><a href="/manage/service">Uslugi</a></li>
+</ul>
+</li>
+<li id="edit"><a href="/index.php?sect=edit">Moje ogloszenie</a></li>
+<li id="dealer"><a href="/index.php?sect=dealer">Dealerzy</a>
+<ul id="subDealer">
+<li><a href="/index.php?sect=dealer&amp;sub=admin">Panel administracyjny</a></li>
+<li><a href="/index.php?sect=dealer&amp;sub=registration">Rejestracja</a></li>
+<li class="lastSubMenu"><a href="/index.php?sect=dealer&amp;sub=uploader">Narzedzia dla dealerów</a></li>
+</ul>
+</li>
+<li id="info"><a href="/index.php?sect=info">Wiadomosci</a>
+<ul id="subInfo">
+<li><a href="/index.php?sect=info&amp;sub=news">Wydarzenia</a></li>
+<li class="lastSubMenu"><a href="/index.php?sect=info&amp;sub=gallery">Galeria</a></li>
+</ul>
+</li>
+<li id="service"><a href="/index.php?sect=service">Finanse</a>
+<ul id="subService">
+<li class="lastSubMenu"><a href="/index.php?sect=service&amp;sub=credit">Kredyt</a></li>
+</ul>
+</li>
+<li id="help"><a href="/index.php?sect=help">Pomoc</a></li>
+
+</ol>
+</div>
+
+</div>
+<div id="contentOM">
+<ul id="adminNav">
+<li class="liRight"><a class="otoLink" href="?sect=search&amp;sub=clipboard"><span>Schowek</span></a></li>
+<li class="liRight"><a class="otoLink" href="index.php?sect=compare&amp;sub=car&amp;qid=2554883821&amp;page=1"><span>Porównaj oferty</span></a></li>
+<li class="liRight"><a class="otoLink" href="index.php?sect=search&amp;sub=subscribe"><span>Automatyczna wyszukiwarka</span></a></li>
+<li class="liLeft">
+<a class="otoLink" href="peugeot"><span>Peugeot</span></a> » 
+<a class="otoLink" href="peugeot/307"><span>307</span></a>
+</li></ul><div class="headLineOM">Wyniki wyszukiwania: <h1>samochody osobowe - sprzedam - ogloszenia motoryzacyjne</h1></div>
+<div id="contentNoBarOM"><div style="margin: 15px 0; text-align: center" id="bannersearchtopTarget">
+<!-- start slave -->
+<div id="adoceanggsgoihxdqkm"></div>
+<script type="text/javascript">&lt;!--//&lt;![CDATA[
+/* (c)AdOcean 2003-2009, GaduGadu.Otomoto.pl.Wyniki_wyszukiwania.600x45_top_banner */
+ado.slave('adoceanggsgoihxdqkm',
+  {
+    myMaster: 'zSHlw_NELTnBl8q96hhNkijMobMAKUcaKI7aLTXi7TP.07',
+    onServerEmission:function() {
+      var el = document.getElementById(this.id);
+      if (el) {
+        el.parentNode.style.display='block';
+      }
+    }
+  });
+// ]]&gt; --&gt;
+</script>
+<!--  end slave  -->
+</div>
+
+<div class="clearOff">
+<div id="mainRightOM">
+<div class="listInfo">
+<h4>Wyniki od 1 do&nbsp;20 sposród 2260 znalezionych pojazdów</h4>
+<h2>Podane kryteria: Marka: <a class="otoLink" href="/peugeot"><span>Peugeot</span></a>, Model: <a class="otoLink" href="/peugeot/307"><span>307</span></a>, Stan techniczny: wszystkie. <strong><a id="changeSearch" class="otoLink" href="index.php?sect=search&amp;sub=car"><span>Zmien kryteria wyszukiwania</span></a></strong></h2>
+<div class="listInfoNav">
+
+<form action="index.php" name="search_form" method="get">
+<fieldset class="navSort">
+<input type="hidden" value="search" name="sect">
+<input type="hidden" value="car" name="sub">
+<input type="hidden" value="2554883821" name="qid">
+<p>
+<label for="order_by">Sortowanie wg:</label>
+<select tabindex="1" id="order_by" name="order_by">
+<option selected="selected" value="p">ceny</option>
+<option value="b">roku produkcji</option>
+<option value="n">modelu</option>
+<option value="m">daty pierwszej rejestracji</option>
+<option value="o">przebiegu</option>
+<option value="i">daty wprowadzenia</option>
+<option value="w">mocy</option>
+</select>
+<input type="submit" tabindex="1" class="submit submitHu" name="sort_change" value="Zmien"></p>
+</fieldset>
+</form>
+<form action="" method="get"><input type="hidden" name="sect" value="search"><input type="hidden" name="sub" value="car"><input type="hidden" name="qid" value="2554883821"><input type="hidden" name="order_by" value="p"><p class="navPage"><span class="pagerInput"><label for="pagerValue0">Idz do</label><input type="text" tabindex="1" value="" class="pagerValue" name="page" id="pagerValue0" autocomplete="off"><input type="submit" tabindex="1" value=" " class="pagerSubmit"></span><strong>1</strong><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=2&amp;qid=2554883821&amp;order_by=p"><span>2</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=3&amp;qid=2554883821&amp;order_by=p"><span>3</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=4&amp;qid=2554883821&amp;order_by=p"><span>4</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=5&amp;qid=2554883821&amp;order_by=p"><span>5</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=6&amp;qid=2554883821&amp;order_by=p"><span>6</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=7&amp;qid=2554883821&amp;order_by=p"><span>7</span></a> z <a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=113&amp;qid=2554883821&amp;order_by=p"><span class="pagerNumber">113</span></a><a href="index.php?sect=search&amp;sub=car&amp;page=2&amp;qid=2554883821&amp;order_by=p"><span title="Nastepna strona" class="navPageEl navFwd"></span></a></p></form>
+</div>
+</div>
+<div id="configNewBox">
+<h3 id="headConfigNew"><span>Nie kupuj gotowca - skonfiguruj dla siebie!</span></h3>
+<div class="boxOM special noClipboard">
+
+<div class="boxHeadOM">
+<h4 id="mojeauto"><a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot/"><span>Peugeot</span></a> <a target="_blank" class="otoLink redLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot/"><span>Zobacz wszystkie modele dostepne w Polsce</span></a></h4>
+<p>juz od <span>35 200</span> PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div><a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot/"><img alt="" class="smallPhoto" src="http://photos03.otomoto.pl/photos/mojeauto/13/1350.jpg"></a></div>
+<p>Od 35 200 PLN do 164 200 PLN, cala Polska</p>
+<p>Wybierz samodzielnie wyposazenie i kolor dowolnego modelu w cenie, która Ci odpowiada, zamów i odbierz go w najblizszym salonie - to proste, sprawdz!</p>
+<p><strong>Wybierz model</strong>: <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,107/"><span>107</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,207/"><span>207</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,308/"><span>308</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,4007/"><span>4007</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,5008/"><span>5008</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,807/"><span>807</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,Boxer/"><span>Boxer</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,Partner/"><span>Partner</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,RCZ/"><span>RCZ</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,3008/"><span>3008</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,Bipper/"><span>Bipper</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,508/"><span>508</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,Expert/"><span>Expert</span></a>, <a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/Peugeot,iOn/"><span>iOn</span></a></p>
+</div>
+<p class="boxFootOM">
+<a target="_blank" class="otoLink" href="http://api.mojeauto.pl/nc/go/o/3/"><span>Zobacz wszystkie dostepne marki i modele nowych aut</span></a>
+</p>
+</div>
+</div>
+<div id="programList">
+<h3 id="headPrograms"><span>Ogloszenia specjalne</span></h3>
+
+<div data-id="C20028831" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C20028831"><a class="otoLink" href="/peugeot-307-C20028831.html"><span>Peugeot 307</span></a> I, 2004, Hatchback <img title="Gwarantowane Samochody Uzywane" alt="Gwarantowane Samochody Uzywane" src="site_images/1/0/logoG2Small.png"> </h4>
+<p>16 900 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-C20028831.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos04.otomoto.pl/photos/128x96/C20/02/88/C20028831_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>16 900 PLN brutto, PL-kraków (woj. malopolskie)</p>
+<p>Data rejestracji: 06/2004, 104 000 km, 108KM (79kW), 1997 cm³, olej napedowy (diesel), ABS, el. lusterka, klimatyzacja, alufelgi, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, przyciemniane szyby</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C23921999" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C23921999"><a class="otoLink" href="/peugeot-307-C23921999.html"><span>Peugeot 307</span></a> II, 2006, Hatchback <img title="Gwarantowane Samochody Uzywane" alt="Gwarantowane Samochody Uzywane" src="site_images/1/0/logoG2Small.png"> </h4>
+<p>19 999 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-C23921999.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos04.otomoto.pl/photos/128x96/C23/92/19/C23921999_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>19 999 PLN brutto, PL-Wroclaw (woj. dolnoslaskie)</p>
+<p>Data rejestracji: 05/2006, 195 000 km, 90KM (66kW), 1560 cm³, olej napedowy (diesel), ABS, klimatyzacja, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, kierownica wielofunkcyjna, serwisowany w ASO</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+</div>
+<div class="search search-car" id="promoList">
+<h3 id="headPromoted"><span>Promowane ogloszenia</span></h3>
+
+<div data-id="C23779789" class="boxOM new">
+<div class="boxHeadOM">
+<h4 id="C23779789"><a class="otoLink" href="/peugeot-307-2-0-hdi-C23779789.html"><span>Peugeot 307 2.0 Hdi</span></a> I, 2002, Hatchback </h4>
+<p>13 200 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-2-0-hdi-C23779789.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos02.otomoto.pl/photos/128x96/C23/77/97/C23779789_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>13 200 PLN brutto (do negocjacji), PL-szczecin (woj. zachodniopomorskie)</p>
+<p>145 000 km, 110KM (81kW), 1997 cm³, olej napedowy (diesel), czarny-metallic, ABS, el. szyby, el. lusterka, klimatyzacja, skórzana tapicerka, alufelgi, centralny zamek, autoalarm, poduszka powietrzna, radio / CD, wspomaganie kierownicy, komputer, podgrzewane fotele, czujnik deszczu, ESP, swiatla przeciwmglowe...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C24101952" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C24101952"><a class="otoLink" href="/peugeot-307-krajowy-C24101952.html"><span>Peugeot 307 Krajowy</span></a> I, 2002, Hatchback </h4>
+<p>13 600 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-krajowy-C24101952.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos01.otomoto.pl/photos/128x96/C24/10/19/C24101952_3.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>13 600 PLN brutto (do negocjacji), PL-Lezajsk (woj. podkarpackie)</p>
+<p>Data rejestracji: 07/2002, 149 000 km, 75KM (55kW), 1360 cm³, benzyna, niebieski-metallic, ABS, el. szyby, klimatyzacja, centralny zamek, poduszka powietrzna, wspomaganie kierownicy, immobiliser, bezwypadkowy, garazowany</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C23444827" class="boxOM new">
+<div class="boxHeadOM">
+<h4 id="C23444827"><a class="otoLink" href="/peugeot-307-C23444827.html"><span>Peugeot 307</span></a> I, 2002, Hatchback </h4>
+<p>13 600 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-C23444827.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos04.otomoto.pl/photos/128x96/C23/44/48/C23444827_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>13 600 PLN brutto (do negocjacji), PL-Zamosc (woj. lubelskie)</p>
+<p>Data rejestracji: 12/2002, 135 000 km, 110KM (81kW), 1587 cm³, benzyna, srebrny, ABS, el. szyby, el. lusterka, klimatyzacja, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, ESP, swiatla przeciwmglowe, kierownica wielofunkcyjna, serwisowany w ASO, bezwypadkowy...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C24150306" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C24150306"><a class="otoLink" href="/peugeot-307-zadbany-klima-okazja-C24150306.html"><span>Peugeot 307 ZADBANY, KLIMA, OKAZJA !!!</span></a> I, 2004, Hatchback </h4>
+<p>13 900 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-zadbany-klima-okazja-C24150306.html"><img alt="Zobacz szczególy" data-photos="[&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_3.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_9.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_2.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_1.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_4.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_5.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_6.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_7.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_8.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/03/C24150306_10.jpg&quot;]" class="smallPhoto zoomPhoto" src="http://photos03.otomoto.pl/photos/128x96/C24/15/03/C24150306_3.jpg"></a>
+<span><span title="Galeria zdjec na listingu" class="otoLegend legendZoom"></span> </span>
+</div>
+<p></p>
+<p>13 900 PLN brutto (do negocjacji), PL-RUDA SLASKA (woj. slaskie)</p>
+<p>Data rejestracji: 05/2004, 175 000 km, 90KM (66kW), 1997 cm³, olej napedowy (diesel), fioletowy-metallic, ABS, el. szyby, el. lusterka, klimatyzacja, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, bezwypadkowy, garazowany</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C24245885" class="boxOM new">
+<div class="boxHeadOM">
+<h4 id="C24245885"><a class="otoLink" href="/peugeot-307-C24245885.html"><span>Peugeot 307</span></a> I, 2003, Kombi </h4>
+<p>14 600 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-C24245885.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos02.otomoto.pl/photos/128x96/C24/24/58/C24245885_7.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>14 600 PLN brutto (do negocjacji), PL-Andrychów (woj. malopolskie)</p>
+<p>133 500 km, 110KM (81kW), 1587 cm³, benzyna+LPG, ABS, el. szyby, el. lusterka, klimatyzacja, alufelgi, centralny zamek, autoalarm, poduszka powietrzna, radio / CD, wspomaganie kierownicy, instalacja gazowa, kierownica wielofunkcyjna, pod. przednia szyba</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C24170641" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C24170641"><a class="otoLink" href="/peugeot-307-sw-110km-climatronic-z-niemiec-C24170641.html"><span>Peugeot 307 SW 110KM CLIMATRONIC Z NIEMIEC</span></a> I, 2003, Kombi </h4>
+<p>14 800 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-sw-110km-climatronic-z-niemiec-C24170641.html"><img alt="Zobacz szczególy" data-photos="[&quot;http://photos02.otomoto.pl/photos/64x48/C24/17/06/C24170641_1.jpg&quot;,&quot;http://photos02.otomoto.pl/photos/64x48/C24/17/06/C24170641_2.jpg&quot;,&quot;http://photos02.otomoto.pl/photos/64x48/C24/17/06/C24170641_3.jpg&quot;,&quot;http://photos02.otomoto.pl/photos/64x48/C24/17/06/C24170641_4.jpg&quot;,&quot;http://photos02.otomoto.pl/photos/64x48/C24/17/06/C24170641_5.jpg&quot;,&quot;http://photos02.otomoto.pl/photos/64x48/C24/17/06/C24170641_6.jpg&quot;,&quot;http://photos02.otomoto.pl/photos/64x48/C24/17/06/C24170641_7.jpg&quot;,&quot;http://photos02.otomoto.pl/photos/64x48/C24/17/06/C24170641_8.jpg&quot;]" class="smallPhoto zoomPhoto" src="http://photos02.otomoto.pl/photos/128x96/C24/17/06/C24170641_1.jpg"></a>
+<span><span title="Galeria zdjec na listingu" class="otoLegend legendZoom"></span> </span>
+</div>
+<p></p>
+<p>14 800 PLN brutto (do negocjacji), PL-Bialobrzegi k. Radomia (woj. mazowieckie)</p>
+<p>138 000 km, 110KM (81kW), 1997 cm³, olej napedowy (diesel), srebrny-metallic, ABS, el. szyby, el. lusterka, klimatyzacja, ASR, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, czujnik deszczu, swiatla przeciwmglowe, kierownica wielofunkcyjna, czujnik parkowania</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C24157258" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C24157258"><a class="otoLink" href="/peugeot-307-1dzien-w-pl-z-niemiec-oplacony-C24157258.html"><span>Peugeot 307 1DZIEN W PL Z NIEMIEC OPLACONY</span></a> I, 2002, Hatchback </h4>
+<p>15 300 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-1dzien-w-pl-z-niemiec-oplacony-C24157258.html"><img alt="Zobacz szczególy" data-photos="[&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_1.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_2.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_3.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_4.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_5.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_6.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_7.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_8.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_9.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C24/15/72/C24157258_10.jpg&quot;]" class="smallPhoto zoomPhoto" src="http://photos03.otomoto.pl/photos/128x96/C24/15/72/C24157258_1.jpg"></a>
+<span><span title="Galeria zdjec na listingu" class="otoLegend legendZoom"></span> </span>
+</div>
+<p></p>
+<p>15 300 PLN brutto (do negocjacji), PL-Gniezno (woj. wielkopolskie)</p>
+<p>133 000 km, 109KM (80kW), 1600 cm³, benzyna, srebrny-metallic, ABS, el. szyby, el. lusterka, klimatyzacja, alufelgi, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, ESP, swiatla przeciwmglowe, kierownica wielofunkcyjna, pierwszy wlasciciel, serwisowany w ASO...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C23479130" class="boxOM new">
+<div class="boxHeadOM">
+<h4 id="C23479130"><a class="otoLink" href="/peugeot-307-hdi-rx-C23479130.html"><span>Peugeot 307 HDI RX</span></a> I, 2003, Hatchback </h4>
+<p>15 500 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-hdi-rx-C23479130.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos03.otomoto.pl/photos/128x96/C23/47/91/C23479130_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>15 500 PLN brutto (do negocjacji), PL-Olszyna (woj. dolnoslaskie)</p>
+<p>127 000 km, 90KM (66kW), 1997 cm³, olej napedowy (diesel), niebieski-metallic, ABS, hak, el. szyby, el. lusterka, klimatyzacja, centralny zamek, autoalarm, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, welurowa tapicerka, czujnik deszczu, ESP, kierownica wielofunkcyjna...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div><div style="text-align: center" id="bannersearchmiddleTarget">
+<!-- start slave -->
+<div id="adoceanggphfpkunuuh"></div>
+<script type="text/javascript">&lt;!--//&lt;![CDATA[
+/* (c)AdOcean 2003-2009, GaduGadu.Otomoto.pl.Wyniki_wyszukiwania.600x45_middle_banner */
+ado.slave('adoceanggphfpkunuuh',
+  {
+    myMaster: 'zSHlw_NELTnBl8q96hhNkijMobMAKUcaKI7aLTXi7TP.07',
+    onServerEmission:function() {
+      var el = document.getElementById(this.id);
+      if (el) {
+        el.parentNode.style.display='block';
+      }
+    }
+  });
+// ]]&gt; --&gt;
+</script>
+<!--  end slave  -->
+</div>
+
+<div data-id="C24067588" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C24067588"><a class="otoLink" href="/peugeot-307-solar-dach-zarejestrowany-C24067588.html"><span>Peugeot 307 SOLAR-DACH , ZAREJESTROWANY</span></a> I, 2005, Kombi </h4>
+<p>16 900 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-solar-dach-zarejestrowany-C24067588.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos01.otomoto.pl/photos/128x96/C24/06/75/C24067588_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>16 900 PLN brutto, PL-KUTNO - OPOROW (woj. lódzkie)</p>
+<p>179 000 km, 110KM (81kW), 1560 cm³, olej napedowy (diesel), srebrny-metallic, ABS, hak, el. szyby, el. lusterka, klimatyzacja, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, komputer, tempomat, swiatla przeciwmglowe, kierownica wielofunkcyjna, czujnik parkowania, pierwszy wlasciciel...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C23396308" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C23396308"><a class="otoLink" href="/peugeot-307-307-C23396308.html"><span>Peugeot 307 307</span></a> II, 2007, Kombi </h4>
+<p>17 000 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-307-C23396308.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos01.otomoto.pl/photos/128x96/C23/39/63/C23396308_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>17 000 PLN brutto (do negocjacji), PL-Radziechowy</p>
+<p>90 000 km, 90KM (66kW), 1560 cm³, olej napedowy (diesel), szary, ABS, el. szyby, el. lusterka, klimatyzacja, centralny zamek, poduszka powietrzna, wspomaganie kierownicy, immobiliser, komputer, swiatla przeciwmglowe, pierwszy wlasciciel, garazowany, homologacja na ciezarowe</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C23858646" class="boxOM special">
+<div class="boxHeadOM">
+<h4 id="C23858646"><a class="otoLink" href="/peugeot-307-stan-idealny-full-opcja-C23858646.html"><span>Peugeot 307 Stan idealny, full opcja</span></a> I, 2004, Hatchback </h4>
+<p>18 000 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-stan-idealny-full-opcja-C23858646.html"><img alt="Zobacz szczególy" data-photos="[&quot;http://photos03.otomoto.pl/photos/64x48/C23/85/86/C23858646_1.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C23/85/86/C23858646_2.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C23/85/86/C23858646_3.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C23/85/86/C23858646_4.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C23/85/86/C23858646_5.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C23/85/86/C23858646_6.jpg&quot;,&quot;http://photos03.otomoto.pl/photos/64x48/C23/85/86/C23858646_7.jpg&quot;]" class="smallPhoto zoomPhoto" src="http://photos03.otomoto.pl/photos/128x96/C23/85/86/C23858646_1.jpg"></a>
+<span><span title="Galeria zdjec na listingu" class="otoLegend legendZoom"></span> </span>
+</div>
+<p></p>
+<p>18 000 PLN brutto, PL-Warszawa (woj. mazowieckie)</p>
+<p>135 000 km, 138KM (101kW), 1997 cm³, benzyna, czarny, ABS, el. szyby, el. lusterka, klimatyzacja, skórzana tapicerka, alufelgi, centralny zamek, autoalarm, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, tempomat, czujnik deszczu, swiatla przeciwmglowe, kierownica wielofunkcyjna</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C23789886" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C23789886"><a class="otoLink" href="/peugeot-307-C23789886.html"><span>Peugeot 307</span></a> I, 2004, Kombi </h4>
+<p>18 500 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-C23789886.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos03.otomoto.pl/photos/128x96/C23/78/98/C23789886_3.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>18 500 PLN brutto (do negocjacji), PL-Miedzybórz (woj. dolnoslaskie)</p>
+<p>156 000 km, 136KM (100kW), 1997 cm³, olej napedowy (diesel), granatowy-metallic, ABS, hak, el. szyby, el. lusterka, klimatyzacja, alufelgi, system nawigacji, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, komputer, welurowa tapicerka, podgrzewane fotele, ESP, swiatla przeciwmglowe...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C23218762" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C23218762"><a class="otoLink" href="/peugeot-307-skora-klimatronik-tempomat-C23218762.html"><span>Peugeot 307 SKÓRA, KLIMATRONIK, TEMPOMAT</span></a> I, 2005, Hatchback </h4>
+<p>19 000 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-skora-klimatronik-tempomat-C23218762.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos03.otomoto.pl/photos/128x96/C23/21/87/C23218762_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>19 000 PLN brutto, PL-Jarocin (woj. wielkopolskie)</p>
+<p>Data rejestracji: 09/2011, 125 000 km, 110KM (81kW), 1560 cm³, olej napedowy (diesel), grafitowy-metallic, ABS, el. szyby, el. lusterka, klimatyzacja, skórzana tapicerka, alufelgi, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, tempomat, podgrzewane fotele...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C24156387" class="boxOM special">
+<div class="boxHeadOM">
+<h4 id="C24156387"><a class="otoLink" href="/peugeot-307-C24156387.html"><span>Peugeot 307</span></a> II, 2005, Hatchback </h4>
+<p>24 900 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-C24156387.html"><img alt="Zobacz szczególy" data-photos="[&quot;http://photos04.otomoto.pl/photos/64x48/C24/15/63/C24156387_4.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C24/15/63/C24156387_3.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C24/15/63/C24156387_5.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C24/15/63/C24156387_6.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C24/15/63/C24156387_7.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C24/15/63/C24156387_8.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C24/15/63/C24156387_1.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C24/15/63/C24156387_2.jpg&quot;]" class="smallPhoto zoomPhoto" src="http://photos04.otomoto.pl/photos/128x96/C24/15/63/C24156387_4.jpg"></a>
+<span><span title="Galeria zdjec na listingu" class="otoLegend legendZoom"></span> </span>
+</div>
+<p></p>
+<p>24 900 PLN brutto (do negocjacji), PL-Kraków (woj. malopolskie)</p>
+<p>100 000 km, 80kW (109KM), 1587 cm³, benzyna, srebrny-metallic, ABS, el. szyby, el. lusterka, klimatyzacja, alufelgi, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, tempomat, czujnik deszczu, swiatla przeciwmglowe, kierownica wielofunkcyjna, bagaznik na dach</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C24111291" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C24111291"><a class="otoLink" href="/peugeot-307-navi-kolor-panorama-ful-opcja-C24111291.html"><span>Peugeot 307 NAVI KOLOR PANORAMA FUL OPCJA</span></a> II, 2007, Kombi </h4>
+<p>25 900 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-navi-kolor-panorama-ful-opcja-C24111291.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos04.otomoto.pl/photos/128x96/C24/11/12/C24111291_9.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>25 900 PLN brutto, PL-Tychy (woj. slaskie)</p>
+<p>Data rejestracji: 10/2007, 160 000 km, 110KM (81kW), 1560 cm³, olej napedowy (diesel), ABS, hak, el. szyby, el. lusterka, klimatyzacja, alufelgi, system nawigacji, szyberdach, centralny zamek, autoalarm, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, welurowa tapicerka...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C22807083" class="boxOM">
+<div class="boxHeadOM">
+<h4 id="C22807083"><a class="otoLink" href="/peugeot-307-salon-pl-1-wl-vat23-aso-C22807083.html"><span>Peugeot 307 SALON PL 1 WL VAT23% ASO</span></a> II, 2007, Kombi </h4>
+<p>27 900 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-salon-pl-1-wl-vat23-aso-C22807083.html"><img alt="Zobacz szczególy" data-photos="[&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_1.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_2.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_3.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_4.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_5.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_6.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_7.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_8.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_9.jpg&quot;,&quot;http://photos04.otomoto.pl/photos/64x48/C22/80/70/C22807083_10.jpg&quot;]" class="smallPhoto zoomPhoto" src="http://photos04.otomoto.pl/photos/128x96/C22/80/70/C22807083_1.jpg"></a>
+<span><span title="Galeria zdjec na listingu" class="otoLegend legendZoom"></span> </span>
+</div>
+<p></p>
+<p>27 900 PLN brutto, PL-Czestochowa (woj. slaskie)</p>
+<p>188 600 km, 136KM (100kW), 2000 cm³, olej napedowy (diesel), ABS, hak, el. szyby, el. lusterka, klimatyzacja, alufelgi, szyberdach, centralny zamek, autoalarm, poduszka powietrzna, radio / CD, wspomaganie kierownicy, komputer, ksenony, czujnik deszczu, ESP, swiatla przeciwmglowe, pierwszy wlasciciel...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C23662450" class="boxOM new">
+<div class="boxHeadOM">
+<h4 id="C23662450"><a class="otoLink" href="/peugeot-307-307-sw-C23662450.html"><span>Peugeot 307 307 SW</span></a> II, 2008, Kombi </h4>
+<p>27 900 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-307-sw-C23662450.html"><img alt="Zobacz szczególy" data-photos="[]" class="smallPhoto" src="http://photos03.otomoto.pl/photos/128x96/C23/66/24/C23662450_1.jpg"></a>
+<span> </span>
+</div>
+<p></p>
+<p>27 900 PLN brutto, PL-Stalowa Wola (woj. podkarpackie)</p>
+<p>136KM (100kW), 1996 cm³, olej napedowy (diesel), srebrny-metallic, ABS, el. szyby, el. lusterka, klimatyzacja, alufelgi, szyberdach, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, czujnik deszczu, ESP, swiatla przeciwmglowe, kierownica wielofunkcyjna...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+<div data-id="C24206604" class="boxOM new">
+<div class="boxHeadOM">
+<h4 id="C24206604"><a class="otoLink" href="/peugeot-307-ksenon-kolor-navi-parktronik-C24206604.html"><span>Peugeot 307 KSENON*KOLOR NAVI*PARKTRONIK</span></a> II, 2007, Kombi </h4>
+<p>27 900 PLN brutto</p>
+</div>
+<div class="boxDescOM">
+<div>
+<a class="otoLink" href="/peugeot-307-ksenon-kolor-navi-parktronik-C24206604.html"><img alt="Zobacz szczególy" data-photos="[&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_1.jpg&quot;,&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_2.jpg&quot;,&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_3.jpg&quot;,&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_4.jpg&quot;,&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_5.jpg&quot;,&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_6.jpg&quot;,&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_7.jpg&quot;,&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_8.jpg&quot;,&quot;http://photos01.otomoto.pl/photos/64x48/C24/20/66/C24206604_9.jpg&quot;]" class="smallPhoto zoomPhoto" src="http://photos01.otomoto.pl/photos/128x96/C24/20/66/C24206604_1.jpg"></a>
+<span><span title="Galeria zdjec na listingu" class="otoLegend legendZoom"></span> </span>
+</div>
+<p></p>
+<p>27 900 PLN brutto (do negocjacji), PL-KATOWICE (woj. slaskie)</p>
+<p>110KM (81kW), 1600 cm³, olej napedowy (diesel), grafitowy-metallic, ABS, el. szyby, el. lusterka, klimatyzacja, alufelgi, system nawigacji, ASR, centralny zamek, poduszka powietrzna, radio / CD, wspomaganie kierownicy, immobiliser, komputer, ksenony, tempomat, czujnik deszczu, ESP, swiatla przeciwmglowe...</p>
+</div>
+<p><a class="otoLink" href="#"><span>Dodaj do porównania</span></a><a class="otoLink" href="#"><span>Dodaj do schowka</span></a></p>
+</div>
+</div>
+<div id="list">
+
+</div>
+<div class="listInfo">
+<div class="listInfoNav">
+<form action="" method="get"><input type="hidden" name="sect" value="search"><input type="hidden" name="sub" value="car"><input type="hidden" name="qid" value="2554883821"><input type="hidden" name="order_by" value="p"><p class="navPage"><span class="pagerInput"><label for="pagerValue1">Idz do</label><input type="text" tabindex="1" value="" class="pagerValue" name="page" id="pagerValue1" autocomplete="off"><input type="submit" tabindex="1" value=" " class="pagerSubmit"></span><strong>1</strong><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=2&amp;qid=2554883821&amp;order_by=p"><span>2</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=3&amp;qid=2554883821&amp;order_by=p"><span>3</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=4&amp;qid=2554883821&amp;order_by=p"><span>4</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=5&amp;qid=2554883821&amp;order_by=p"><span>5</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=6&amp;qid=2554883821&amp;order_by=p"><span>6</span></a><a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=7&amp;qid=2554883821&amp;order_by=p"><span>7</span></a> z <a class="otoLink" href="index.php?sect=search&amp;sub=car&amp;page=113&amp;qid=2554883821&amp;order_by=p"><span class="pagerNumber">113</span></a><a href="index.php?sect=search&amp;sub=car&amp;page=2&amp;qid=2554883821&amp;order_by=p"><span title="Nastepna strona" class="navPageEl navFwd"></span></a></p></form>
+</div>
+</div>
+</div>
+<div id="sidebarLeftOM">
+<div id="iStoreOffersOM">
+<h3 id="headIStore"><span>Oferta sklepów</span></h3>
+<p>
+<a target="_blank" href="http://toyotabonkowscy.istore.pl/pl/filtr-oleju-aygo-yaris-corolla-oe-a90915-yzzj1.html?partner=3325"><img alt="" src="http://photos02.otomoto.pl/photos/istore/146/40/1464041.jpg"></a>
+<strong><a title="FILTR OLEJU AYGO, YARIS, COROLLA OE A90915-YZZJ1" class="otoLink" target="_blank" href="http://toyotabonkowscy.istore.pl/pl/filtr-oleju-aygo-yaris-corolla-oe-a90915-yzzj1.html?partner=3325"><span>FILTR OLEJU AYGO, YARIS, COROL...</span></a></strong>
+<span>Cena: <strong>41.65</strong> zl <a class="otoLink" target="_blank" href="http://toyotabonkowscy.istore.pl/pl/filtr-oleju-aygo-yaris-corolla-oe-a90915-yzzj1.html?partner=3325"><span>Kup&nbsp;teraz</span></a></span>
+</p>
+<p>
+<a target="_blank" href="http://narzedzia24h.com/pl/kpl-kluczy-do-szpilek-4szt-ag010059.html?partner=3325"><img alt="" src="http://photos01.otomoto.pl/photos/istore/146/11/1461132.jpg"></a>
+<strong><a title="Kpl.kluczy do  szpilek 4szt.   AG010059" class="otoLink" target="_blank" href="http://narzedzia24h.com/pl/kpl-kluczy-do-szpilek-4szt-ag010059.html?partner=3325"><span>Kpl.kluczy do  szpilek 4szt.  ...</span></a></strong>
+<span>Cena: <strong>0</strong> zl <a class="otoLink" target="_blank" href="http://narzedzia24h.com/pl/kpl-kluczy-do-szpilek-4szt-ag010059.html?partner=3325"><span>Kup&nbsp;teraz</span></a></span>
+</p>
+<p>
+<a target="_blank" href="http://motosezam.istore.pl/pl/gasnica-samochodowa-5-lat-gwarancji-proszkowa-1-kg.html?partner=3325"><img alt="" src="http://photos02.otomoto.pl/photos/istore/146/09/1460965.jpg"></a>
+<strong><a title="Gasnica samochodowa 5 LAT GWARANCJI - proszkowa 1 kg" class="otoLink" target="_blank" href="http://motosezam.istore.pl/pl/gasnica-samochodowa-5-lat-gwarancji-proszkowa-1-kg.html?partner=3325"><span>Gasnica samochodowa 5 LAT GWAR...</span></a></strong>
+<span>Cena: <strong>21.9</strong> zl <a class="otoLink" target="_blank" href="http://motosezam.istore.pl/pl/gasnica-samochodowa-5-lat-gwarancji-proszkowa-1-kg.html?partner=3325"><span>Kup&nbsp;teraz</span></a></span>
+</p>
+<p>
+<a target="_blank" href="http://e-filtry.net/pl/ps-877-filtr-paliwa.html?partner=3325"><img alt="" src="http://photos04.otomoto.pl/photos/istore/146/36/1463691.jpg"></a>
+<strong><a class="otoLink" target="_blank" href="http://e-filtry.net/pl/ps-877-filtr-paliwa.html?partner=3325"><span>PS 877 FILTR PALIWA</span></a></strong>
+<span>Cena: <strong>0</strong> zl <a class="otoLink" target="_blank" href="http://e-filtry.net/pl/ps-877-filtr-paliwa.html?partner=3325"><span>Kup&nbsp;teraz</span></a></span>
+</p>
+<p>
+<a target="_blank" href="http://rolcar.pl/pl/sonax-sztyft-do-uszczelek-i-gumy-20.html?partner=3325"><img alt="" src="http://photos04.otomoto.pl/photos/istore/146/27/1462755.jpg"></a>
+<strong><a title="Sonax Sztyft Do Uszczelek i Gumy 20 " class="otoLink" target="_blank" href="http://rolcar.pl/pl/sonax-sztyft-do-uszczelek-i-gumy-20.html?partner=3325"><span>Sonax Sztyft Do Uszczelek i Gu...</span></a></strong>
+<span>Cena: <strong>12.9</strong> zl <a class="otoLink" target="_blank" href="http://rolcar.pl/pl/sonax-sztyft-do-uszczelek-i-gumy-20.html?partner=3325"><span>Kup&nbsp;teraz</span></a></span>
+</p>
+<p>
+<a target="_blank" href="http://filterki.pl/pl/swieca-zaplonowa-ngk-lfr5b.html?partner=3325"><img alt="" src="http://photos04.otomoto.pl/photos/istore/146/32/1463243.jpg"></a>
+<strong><a class="otoLink" target="_blank" href="http://filterki.pl/pl/swieca-zaplonowa-ngk-lfr5b.html?partner=3325"><span>Swieca zaplonowa NGK LFR5B</span></a></strong>
+<span>Cena: <strong>0</strong> zl <a class="otoLink" target="_blank" href="http://filterki.pl/pl/swieca-zaplonowa-ngk-lfr5b.html?partner=3325"><span>Kup&nbsp;teraz</span></a></span>
+</p>
+</div><!-- /iStoreOffersOM -->
+</div>
+</div><div style="margin-bottom: 10px; text-align: center" id="bannersearchbottomTarget">
+<!-- start slave -->
+<div id="adoceanggmimforhjzg"></div>
+<script type="text/javascript">&lt;!--//&lt;![CDATA[
+/* (c)AdOcean 2003-2009, GaduGadu.Otomoto.pl.Wyniki_wyszukiwania.600x45_bottom_banner */
+ado.slave('adoceanggmimforhjzg',
+  {
+    myMaster: 'zSHlw_NELTnBl8q96hhNkijMobMAKUcaKI7aLTXi7TP.07',
+    onServerEmission:function() {
+      var el = document.getElementById(this.id);
+      if (el) {
+        el.parentNode.style.display='block';
+      }
+    }
+  });
+// ]]&gt; --&gt;
+</script>
+<!--  end slave  -->
+</div>
+
+<div class="listInfo">
+<p><strong>Legenda</strong>:</p>
+<ul class="listInfoLegend">
+<li><span title="Nowe ogloszenia" class="otoLegend legendNew"></span>&nbsp;Ogloszenia dodane w ciagu ostatnich 7 dni</li>
+<li><span title="Oferta z Allegro.pl" class="otoLegend legendAuction"></span>&nbsp;Pojazdy pochodzace z aukcji Allegro.pl</li>
+<li><span title="Polecany sprzedawca" class="otoLegend legendTop"></span>&nbsp;Polecany sprzedawca</li>
+<li><span title="Galeria zdjec na listingu" class="otoLegend legendZoom"></span>&nbsp;Galeria zdjec na listingu</li></ul>
+</div>
+<div id="boxModelOM">
+<h2>Peugeot - Pozostale modele tej marki</h2>
+<div>
+<ul>
+<li><a class="otoLink" href="peugeot/104"><span>Peugeot 104</span></a></li>
+<li><a class="otoLink" href="peugeot/106"><span>Peugeot 106</span></a></li>
+<li><a class="otoLink" href="peugeot/107"><span>Peugeot 107</span></a></li>
+<li><a class="otoLink" href="peugeot/204"><span>Peugeot 204</span></a></li>
+<li><a class="otoLink" href="peugeot/205"><span>Peugeot 205</span></a></li>
+<li><a class="otoLink" href="peugeot/206"><span>Peugeot 206</span></a></li>
+<li><a class="otoLink" href="peugeot/206-cc"><span>Peugeot 206 CC</span></a></li>
+<li><a class="otoLink" href="peugeot/206"><span>Peugeot 206+</span></a></li>
+<li><a class="otoLink" href="peugeot/207"><span>Peugeot 207</span></a></li>
+<li><a class="otoLink" href="peugeot/207-cc"><span>Peugeot 207 CC</span></a></li>
+</ul>
+<ul>
+<li><a class="otoLink" href="peugeot/208"><span>Peugeot 208</span></a></li>
+<li><a class="otoLink" href="peugeot/304"><span>Peugeot 304</span></a></li>
+<li><a class="otoLink" href="peugeot/305"><span>Peugeot 305</span></a></li>
+<li><a class="otoLink" href="peugeot/306"><span>Peugeot 306</span></a></li>
+<li><a class="otoLink" href="peugeot/307"><span>Peugeot 307</span></a></li>
+<li><a class="otoLink" href="peugeot/307-cc"><span>Peugeot 307 CC</span></a></li>
+<li><a class="otoLink" href="peugeot/308"><span>Peugeot 308</span></a></li>
+<li><a class="otoLink" href="peugeot/309"><span>Peugeot 309</span></a></li>
+<li><a class="otoLink" href="peugeot/395"><span>Peugeot 395</span></a></li>
+<li><a class="otoLink" href="peugeot/404"><span>Peugeot 404</span></a></li>
+</ul>
+<ul>
+<li><a class="otoLink" href="peugeot/405"><span>Peugeot 405</span></a></li>
+<li><a class="otoLink" href="peugeot/406"><span>Peugeot 406</span></a></li>
+<li><a class="otoLink" href="peugeot/407"><span>Peugeot 407</span></a></li>
+<li><a class="otoLink" href="peugeot/504"><span>Peugeot 504</span></a></li>
+<li><a class="otoLink" href="peugeot/505"><span>Peugeot 505</span></a></li>
+<li><a class="otoLink" href="peugeot/508"><span>Peugeot 508</span></a></li>
+<li><a class="otoLink" href="peugeot/604"><span>Peugeot 604</span></a></li>
+<li><a class="otoLink" href="peugeot/605"><span>Peugeot 605</span></a></li>
+<li><a class="otoLink" href="peugeot/607"><span>Peugeot 607</span></a></li>
+<li><a class="otoLink" href="peugeot/806"><span>Peugeot 806</span></a></li>
+</ul>
+<ul>
+<li><a class="otoLink" href="peugeot/807"><span>Peugeot 807</span></a></li>
+<li><a class="otoLink" href="peugeot/1007"><span>Peugeot 1007</span></a></li>
+<li><a class="otoLink" href="peugeot/3008"><span>Peugeot 3008</span></a></li>
+<li><a class="otoLink" href="peugeot/4007"><span>Peugeot 4007</span></a></li>
+<li><a class="otoLink" href="peugeot/5008"><span>Peugeot 5008</span></a></li>
+<li><a class="otoLink" href="peugeot/bipper"><span>Peugeot Bipper</span></a></li>
+<li><a class="otoLink" href="peugeot/expert"><span>Peugeot Expert</span></a></li>
+<li><a class="otoLink" href="peugeot/partner"><span>Peugeot Partner</span></a></li>
+<li><a class="otoLink" href="peugeot/rcz"><span>Peugeot RCZ</span></a></li>
+<li><a class="otoLink" href="peugeot/inny"><span>Peugeot inny</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footerOM">
+<div id="footerUni">
+<div class="first">
+<h3><a href="/">OtoMoto.pl</a></h3>
+<ul>
+<li><a href="/index.php?sect=contact">Kontakt</a></li>
+<li><a href="/index.php?sect=partners">Partnerzy</a></li>
+<li><a target="_blank" href="http://allegro.pl/country_pages/1/0/biuro_reklamy/">Reklama</a></li>
+<li><a href="/mapa">Mapa kategorii</a></li>
+</ul>
+</div>
+<div>
+<h3><a>Uslugi i narzedzia</a></h3>
+<ul><li><a href="/site_images/1/0/static/docs/webapi/otoMoto_webApi_dealer_pl.pdf?1324640366">Dokumentacja WebApi</a></li><li><a href="/index.php?sect=service&amp;sub=uploader">OtoMoto Auto-Market Lite</a></li><li><a href="/index.php?sect=service&amp;sub=searchboxes">Dla webmasterów</a></li><li><a href="/umowa-kupna-sprzedazy">Umowa kupna sprzedazy</a></li>
+</ul>
+</div>
+<div>
+<h3><a>Serwisy zagraniczne</a></h3>
+<ul><li><a href="http://otomoto.cz" target="_blank">Czechy</a></li><li><a href="http://otomoto.eu" target="_blank">Niemcy</a></li><li><a href="http://www.autogidas.lt" target="_blank">Litwa</a></li><li><a href="http://www.autovit.ro" target="_blank">Rumunia</a></li><li><a href="http://auto.ria.ua" target="_blank">Ukraina</a></li><li><a href="http://www.vateraauto.hu" target="_blank">Wegry</a></li>
+</ul>
+</div>
+<div class="last">
+<h3><a>Grupa Allegro</a></h3>
+<ul><li><a href="http://allegro.pl" target="_blank">Allegro</a></li><li><a href="http://www.bankier.pl" target="_blank">Bankier.pl</a></li><li><a href="http://markafoni.pl" target="_blank">Markafoni</a></li><li><a href="http://www.ceneo.pl" target="_blank">Ceneo</a></li><li><a href="http://citeam.pl" target="_blank">Citeam.pl</a></li><li><a href="http://cokupic.pl" target="_blank">CoKupic.pl</a></li><li><a href="http://www.istore.pl" target="_blank">iStore</a></li><li><a href="http://oferia.pl" target="_blank">Oferia</a></li><li><a href="http://www.otodom.pl" target="_blank">otoDom - oferty nieruchomosci</a></li><li><a href="http://otopraca.pl" target="_blank">otoPraca - oferty pracy</a></li><li><a href="http://www.otowakacje.pl" target="_blank">otoWakacje - oferty wakacji</a></li><li><a href="http://www.paygsm.pl" target="_blank">PayGSM</a></li><li><a href="http://www.payu.pl" target="_blank">PayU</a></li>
+</ul>
+</div>
+<a title="Poczatek strony" href="#top" id="toTop"></a>
+</div>
+<!--[if lte IE 7]><script>
+//<![CDATA[
+foot={init:function(a){x=document.getElementById(a);if(x){for(i=0;i<x.childNodes.length;i++){node=x.childNodes[i];if(node.nodeName=="DIV"){node.onmouseover=function(){this.className+=" hover"};node.onmouseout=function(){this.className=this.className.replace(" hover","")}}}}}};foot.init("footerUni");
+//]]>
+</script><![endif]-->
+<div id="footerCooperative">
+<p>Korzystanie z serwisu oznacza akceptacje <a class="otoLink" href="/index.php?sect=regulations"><span>regulaminu</span></a>.</p>
+</div>
+</div>
+</div>
+<script src="/site_images/1/0/js/jquery-1.4.4.min.js"></script>
+<script>
+var serverName="otomoto.pl",
+lcADDED_TO_CLIPBOARD="Dodano do schowka",
+clipboard_cookie_name="OTOMOTO_CLIPBOARD",
+comparisioner_cookie_name="OTOMOTO_COMPARISIONER",
+lcADDED_TO_CLIPBOARD="Dodano do schowka",
+lcVEHICLE_ALREADY_EXISTS_IN_CLIPBOARD="Pojazd jest juz w schowku",
+lcREMOVED_FROM_CLIPBOARD="Usunieto ze schowka",
+lcADDED_TO_COMPARISIONER="Dodano do porównania",
+lcVEHICLE_ALREADY_EXISTS_IN_COMPARISIONER="Pojazd zostal juz dodany do porównania",
+lcCANT_ADD_TO_COMPARE="Nie mozna dodac do porównania. Maksymalna liczba ofert: 6",
+lcREMOVED_FROM_COMPARISIONER="Usunieto z porównania",
+lcADD_TO_CLIPBOARD="Dodaj do schowka",
+lcADD_TO_COMPARISIONER="Dodaj do porównania",
+lcREMOVE_FROM_CLIPBOARD="Usun ze schowka",
+lcREMOVE_FROM_COMPARISIONER="Usun z porównania",
+lcCHANGE_SEARCH="Zmien kryteria wyszukiwania",
+cookieExpireDate="Wed, 13-Jun-2012 15:24:05 GMT";
+</script>
+<script src="/site_images/1/0/js/omCommon.js?v=5"></script>
+<script src="/site_images/1/0/js/omSearch.js?v=9"></script>
+  <script>var gemius_identifier = new String('nL47YMA31Hps17kN9Ugm6pPZLcC6zhsY5nYOLdEzbqP.o7');</script>
+  <script src="http://otomoto.pl/xgemius.js"></script>  
+  <!-- CCS timestamp: 2012-05-14 17:24:05 -->
+    <script>var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js'%3E%3C/script%3E"));</script><script src="http://www.google-analytics.com/ga.js"></script>
+  <script>try {var pageTracker=_gat._getTracker("UA-2875543-1");pageTracker._trackPageview();} catch(err) {}</script>
+  
+
+
+
+</body></html>
