@@ -22,8 +22,16 @@ namespace OtoMotoAnalyser
             if (htmlDoc.ParseErrors != null)
             {
                 // Handle any parse errors as required
-
+                Console.WriteLine("Errors ;(");
             }
+            else
+            {
+                Console.WriteLine("No errors, hurray!");
+            }
+
+            HtmlNode n = node.SelectSingleNode("div[@id='programList']");
+
+
             BuildCarList();
             //BuildLinkList();
             //BuildNextLink();
